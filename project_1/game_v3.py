@@ -104,5 +104,5 @@ score_game(random_predict)
 print('Run benchmarking for game_core_v2: ', end='')
 score_game(game_core_v2)
 
-print('Run benchmarking for game_core_v2: ', end='')
+print('Run benchmarking for game_core_v3: ', end='')
 score_game(game_core_v3)

@@ -1,15 +1,15 @@
 # Проект 1. Угодай число (доработанный)
 
 ## Оглавление
-[1. Описание проекта](_____)
+[1. Описание проекта](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](_____)
+[2. Какой кейс решаем](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Какой-кейс-решаем?)
 
-[3. Условие соревнования](_____)
+[3. Условие соревнования](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Условие-соревнования)
 
-[4. Метрика качества](_____)
+[4. Метрика качества](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Метрика-качества)
 
-[5. Результат](_____)
+[5. Результат](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Результат)
 
 ### Описание проекта
 Угадать заданное компьютером число меньше чем за 20 попыток.
